@@ -12,11 +12,9 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 <table>
   <tr>
     <td>
+## 👋 About Me
 
-gu## 👋 About Me
-
-Backend-focused Computer Science Engineering student with a strong interest in  
-building reliable, maintainable systems and understanding production-grade software.
+Backend-focused Computer Science Engineering student with a strong interest in  building reliable, maintainable systems and understanding production-grade software.
 
 ```
   {
