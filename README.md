@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="./assets/typing.gif" width="900" />
+  <img src="./assets/typing.gif" width="800" height="300" />
 </p>
-
+![](https://komarev.com/ghpvc/?username=Noob-Developer-Real&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge)
 ### Hi, I’m Noob-Dev 👋 
 
 Backend-focused Computer Science Engineering student interested in building reliable, maintainable backend systems and understanding how production-grade software is designed and evolved.
-
-This account is used to learn by building, with an emphasis on clarity, correctness, and long-term maintainability.
 
 ---
 
@@ -15,7 +13,7 @@ This account is used to learn by building, with an emphasis on clarity, correctn
   <tr>
     <td>
 
-Backend-focused Computer Science Engineering student with a strong interest in  building reliable, maintainable systems and understanding production-grade software.
+Computer Science Engineering student who enjoys breaking complex problems into clean, dependable backend systems.
 
 ```
   {
@@ -120,12 +118,13 @@ I prefer fewer, well-structured projects that emphasize fundamentals over quanti
 - JWT authentication
 - Clear separation of concerns
 - Reusable and testable components
+---
 
 ### Learning-by-Building Project
 - Concepts implemented directly in production-style code
 - Iterative refactoring as understanding improves
 - Long-term goal: grow into a backend engineer focused on secure systems, infrastructure, and practical AI-driven backend solutions
-- 
+  
 ---
 <h2 align="center">🇮🇳 India — Dev Weather Report ⛅</h2>
 
@@ -142,8 +141,8 @@ I prefer fewer, well-structured projects that emphasize fundamentals over quanti
       <b>Scattered Clouds</b>
       <img width="15" src="http://openweathermap.org/img/w/03d.png">
     </td>
-    <td><b>12°C ❄️</b><br/><sub>Low heat, high focus</sub></td>
-    <td><b>06:07 AM</b><br/><sub>Server online</sub></td>
+    <td><b>96°C 🔥</b><br/><sub>Low heat, high focus</sub></td>
+    <td><b>06:09 AM</b><br/><sub>Server online</sub></td>
     <td><b>06:09 PM</b><br/><sub>Graceful shutdown</sub></td>
     <td><b>98%</b><br/><sub>RAM crying</sub></td>
   </tr>
