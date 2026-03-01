@@ -1,200 +1,101 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Backend Engineer | Portfolio</title>
+Hi, I’m <Your Name> 👋
 
-  <style>
-    body {
-      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 2rem;
-      background-color: #0f172a;
-      color: #e5e7eb;
-    }
+Backend-focused Computer Science Engineering student building scalable, real-world systems with a strong emphasis on clean architecture, API design, and maintainability.
 
-    h1, h2, h3 {
-      color: #f9fafb;
-    }
+🚀 About Me
 
-    h2 {
-      margin-top: 2.5rem;
-      border-bottom: 1px solid #334155;
-      padding-bottom: 0.5rem;
-    }
+🎓 B.Tech in Computer Science Engineering (2025–2029)
 
-    p, li {
-      color: #cbd5f5;
-    }
+🧠 Backend-first mindset with a product and systems-oriented approach
 
-    ul {
-      padding-left: 1.2rem;
-    }
+🔍 Focused on maintainable, testable, and scalable code
 
-    .badge {
-      display: inline-block;
-      padding: 0.3rem 0.6rem;
-      margin-right: 0.5rem;
-      border-radius: 6px;
-      background: #1e293b;
-      font-size: 0.85rem;
-    }
+🎯 Target Roles: Backend Engineer Intern | Junior Backend Engineer
 
-    .icons img {
-      width: 40px;
-      margin-right: 10px;
-      vertical-align: middle;
-    }
+🛠 Tech Stack
+Backend & APIs
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="40" title="Django REST Framework"/> </p>
 
-    .section {
-      margin-bottom: 2rem;
-    }
+Python, Django, Django REST Framework
 
-    blockquote {
-      margin-top: 2rem;
-      padding-left: 1rem;
-      border-left: 4px solid #38bdf8;
-      color: #e0f2fe;
-      font-style: italic;
-    }
+RESTful API design
 
-    a {
-      color: #38bdf8;
-      text-decoration: none;
-    }
+JWT-based authentication & authorization
 
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
+Clean architecture and modular service layers
 
-<body>
+Databases
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/> </p>
 
-  <header class="section">
-    <h1>Hi, I’m &lt;Your Name&gt; 👋</h1>
-    <p>
-      <strong>Backend-focused Computer Science Engineering student</strong>
-      building <strong>scalable, real-world systems</strong> with a strong
-      emphasis on <strong>clean architecture, API design, and maintainability</strong>.
-    </p>
-  </header>
+PostgreSQL, SQLite
 
-  <section class="section">
-    <h2>🚀 About Me</h2>
-    <ul>
-      <li>🎓 B.Tech in Computer Science Engineering (2025–2029)</li>
-      <li>🧠 Backend-first mindset with a product-oriented approach</li>
-      <li>🔍 Focused on maintainable, testable, and scalable code</li>
-      <li>🎯 Target Roles: Backend Engineer Intern / Junior Backend Engineer</li>
-    </ul>
-  </section>
+ORM-based schema design
 
-  <section class="section">
-    <h2>🛠 Tech Stack</h2>
+Query optimization & indexing fundamentals
 
-    <h3>Backend & APIs</h3>
-    <div class="icons">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" />
-    </div>
-    <ul>
-      <li>Python, Django, Django REST Framework</li>
-      <li>RESTful API design</li>
-      <li>JWT-based authentication and authorization</li>
-      <li>Clean architecture and modular service layers</li>
-    </ul>
+Frontend (Working Knowledge)
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS"/> </p>
 
-    <h3>Databases</h3>
-    <div class="icons">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" />
-    </div>
-    <ul>
-      <li>PostgreSQL, SQLite</li>
-      <li>ORM-based schema design</li>
-      <li>Query optimization and indexing fundamentals</li>
-    </ul>
+HTML, CSS
 
-    <h3>Frontend (Working Knowledge)</h3>
-    <ul>
-      <li>HTML, CSS</li>
-      <li>HTMX for server-driven UI</li>
-      <li>Alpine.js for lightweight interactivity</li>
-    </ul>
+HTMX for server-driven UI
 
-    <h3>Tools & Practices</h3>
-    <div class="icons">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" />
-    </div>
-    <ul>
-      <li>Git & GitHub (branching, PR-based workflow)</li>
-      <li>Environment and secrets management using <code>.env</code></li>
-      <li>Foundational backend system design concepts</li>
-    </ul>
-  </section>
+Alpine.js for lightweight interactivity
 
-  <section class="section">
-    <h2>📌 Featured Projects</h2>
-    <p>
-      I focus on <strong>fewer, high-quality projects</strong> with strong
-      engineering fundamentals rather than many shallow implementations.
-    </p>
+Tools & Engineering Practices
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/> </p>
 
-    <h3>Backend API Project</h3>
-    <ul>
-      <li>Role-based access control (RBAC)</li>
-      <li>JWT authentication</li>
-      <li>Clean API layering</li>
-      <li>Reusable and testable components</li>
-    </ul>
+Git & GitHub (branching, PR-based workflow)
 
-    <h3>Learning-by-Building Project</h3>
-    <ul>
-      <li>Concepts implemented directly into production-style code</li>
-      <li>Strong focus on understanding internal system behavior</li>
-    </ul>
+Environment & secrets management using .env
 
-    <p>
-      All projects include clear README files, setup instructions,
-      and architecture explanations.
-    </p>
-  </section>
+Foundational backend system design concepts
 
-  <section class="section">
-    <h2>🌱 Currently Learning</h2>
-    <ul>
-      <li>Advanced Django design patterns</li>
-      <li>API security and performance optimization</li>
-      <li>HTMX + Alpine.js for modern backend-driven UIs</li>
-      <li>Backend system design fundamentals</li>
-    </ul>
-  </section>
+📌 Featured Projects
 
-  <section class="section">
-    <h2>📈 What I Care About</h2>
-    <ul>
-      <li>Writing code that scales with teams, not just assignments</li>
-      <li>Understanding why systems are designed a certain way</li>
-      <li>Industry best practices over shortcuts</li>
-    </ul>
-  </section>
+I focus on fewer, high-impact projects with strong engineering fundamentals rather than many shallow implementations.
 
-  <section class="section">
-    <h2>📫 Connect With Me</h2>
-    <ul>
-      <li>LinkedIn: <a href="#">your-link</a></li>
-      <li>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></li>
-    </ul>
-  </section>
+🔹 Backend API Project
 
-  <blockquote>
-    This is my secondary GitHub account, where I focus on learning how things work
-    under the hood by building, breaking, and refining real systems.
-  </blockquote>
+Role-based access control (RBAC)
 
-</body>
-</html>
+JWT authentication
+
+Clean API layering
+
+Reusable, testable components
+
+🔹 Learning-by-Building Project
+
+Concepts implemented directly into production-style code
+
+Emphasis on understanding how things work internally
+
+All projects include clear README files, setup instructions, and architecture explanations.
+
+🌱 Currently Learning
+
+Advanced Django design patterns
+
+API security & performance optimization
+
+HTMX + Alpine.js for backend-driven UIs
+
+Backend system design fundamentals
+
+📈 What I Care About
+
+Writing code that scales with teams, not just assignments
+
+Understanding why systems are designed a certain way
+
+Industry best practices over shortcuts
+
+📫 Connect With Me
+
+LinkedIn: <your-link>
+
+Email: <your-email>
+
+This is my secondary GitHub account, where I focus on learning how things work under the hood by building, breaking, and refining real systems.
+
