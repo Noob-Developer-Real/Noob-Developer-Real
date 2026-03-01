@@ -1,101 +1,107 @@
-Hi, I’m <Your Name> 👋
+# Hi, I’m <Your Name> 👋  
 
-Backend-focused Computer Science Engineering student building scalable, real-world systems with a strong emphasis on clean architecture, API design, and maintainability.
+Backend-focused Computer Science Engineering student interested in building reliable, maintainable backend systems and understanding how production-grade software is designed and evolved.
 
-🚀 About Me
+This account is used to learn by building, with an emphasis on clarity, correctness, and long-term maintainability.
 
-🎓 B.Tech in Computer Science Engineering (2025–2029)
+---
 
-🧠 Backend-first mindset with a product and systems-oriented approach
+## About Me
+- 🎓 B.Tech in Computer Science Engineering (2025–2029)
+- 🧠 Backend-first, systems-oriented mindset
+- 🔍 Focus on clean architecture, correctness, and code quality
+- 🎯 Target Roles: Backend Engineer Intern / Junior Backend Engineer
 
-🔍 Focused on maintainable, testable, and scalable code
+---
 
-🎯 Target Roles: Backend Engineer Intern | Junior Backend Engineer
+## Tech Stack
 
-🛠 Tech Stack
-Backend & APIs
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" title="Django"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="40" title="Django REST Framework"/> </p>
+### Backend & APIs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" width="38" />
+</p>
 
-Python, Django, Django REST Framework
+- Python, Django, Django REST Framework
+- REST API design and versioning
+- JWT-based authentication and authorization
+- Layered architecture and service-oriented design
 
-RESTful API design
+---
 
-JWT-based authentication & authorization
+### Databases
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="38" />
+</p>
 
-Clean architecture and modular service layers
+- PostgreSQL, SQLite
+- ORM-based schema modeling
+- Indexing and query optimization fundamentals
 
-Databases
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/> </p>
+---
 
-PostgreSQL, SQLite
+### Frontend (Working Knowledge)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="38" />
+</p>
 
-ORM-based schema design
+- HTML, CSS
+- HTMX for server-driven UI
+- Alpine.js for minimal client-side logic
 
-Query optimization & indexing fundamentals
+---
 
-Frontend (Working Knowledge)
-<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS"/> </p>
+### Tools & Practices
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="38" />
+</p>
 
-HTML, CSS
+- Git & GitHub (branching, pull requests, reviews)
+- Environment configuration using `.env`
+- Core backend system design principles
 
-HTMX for server-driven UI
+---
 
-Alpine.js for lightweight interactivity
+## Projects
+I prefer fewer, well-structured projects that emphasize fundamentals over quantity.
 
-Tools & Engineering Practices
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/> </p>
+### Backend API Project
+- Role-based access control
+- JWT authentication
+- Clear separation of concerns
+- Reusable and testable components
 
-Git & GitHub (branching, PR-based workflow)
+### Learning-by-Building Project
+- Concepts implemented directly in production-style code
+- Iterative refactoring as understanding improves
 
-Environment & secrets management using .env
+Each project includes setup instructions, architectural notes, and clear documentation.
 
-Foundational backend system design concepts
+---
 
-📌 Featured Projects
+## Currently Learning
+- Advanced Django patterns and best practices
+- API security and performance tuning
+- Server-driven UI with HTMX and Alpine.js
+- Backend system design fundamentals
 
-I focus on fewer, high-impact projects with strong engineering fundamentals rather than many shallow implementations.
+---
 
-🔹 Backend API Project
+## What I Care About
+- Software that remains readable and adaptable over time
+- Understanding design trade-offs, not just implementations
+- Writing code that scales with teams, not just features
 
-Role-based access control (RBAC)
+---
 
-JWT authentication
+## Connect
+- LinkedIn: <your-link>
+- Email: <your-email>
 
-Clean API layering
+---
 
-Reusable, testable components
-
-🔹 Learning-by-Building Project
-
-Concepts implemented directly into production-style code
-
-Emphasis on understanding how things work internally
-
-All projects include clear README files, setup instructions, and architecture explanations.
-
-🌱 Currently Learning
-
-Advanced Django design patterns
-
-API security & performance optimization
-
-HTMX + Alpine.js for backend-driven UIs
-
-Backend system design fundamentals
-
-📈 What I Care About
-
-Writing code that scales with teams, not just assignments
-
-Understanding why systems are designed a certain way
-
-Industry best practices over shortcuts
-
-📫 Connect With Me
-
-LinkedIn: <your-link>
-
-Email: <your-email>
-
-This is my secondary GitHub account, where I focus on learning how things work under the hood by building, breaking, and refining real systems.
-
+> This is my secondary GitHub account, used to understand how things work by building, breaking, and refining backend systems.
