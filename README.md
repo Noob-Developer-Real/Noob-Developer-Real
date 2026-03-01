@@ -69,6 +69,10 @@ Backend-focused Computer Science Engineering student building scalable, real-wor
   </a>
 </p>
 
+![Python](https://img.shields.io/badge/Python-Backend-blue)
+![Django](https://img.shields.io/badge/Django-Framework-green)
+![Status](https://img.shields.io/badge/Status-Actively%20Building-success)
+
 ## 📈 What I Care About
 - Writing code that scales with teams, not just assignments
 - Understanding *why* a system is built a certain way
