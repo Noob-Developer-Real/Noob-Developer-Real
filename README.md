@@ -51,6 +51,12 @@ Backend-focused Computer Science Engineering student building scalable, real-wor
 - HTMX + Alpine.js for modern server-driven UI
 - Backend system design fundamentals
 
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="35" title="Django"/>
+</p>
+
 ---
 ## 🛠 Tech Stack
 
