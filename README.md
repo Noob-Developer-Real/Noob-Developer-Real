@@ -51,7 +51,7 @@ This account is used to learn by building, with an emphasis on clarity, correctn
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href="https://htmx.org/"><img alt="HTMX" title="HTMX" src="./assets/Htmx.png" height="42"></a></code>
-  <code><a href="https://alpinejs.dev/"><img alt="Alpine.js" title="Alpine.js" src="./assets/Alpine_Js.svg" height="42"></a></code>
+  <code><a href="https://alpinejs.dev/"><img alt="Alpine.js" title="Alpine.js" src="./assets/alpine_Js.svg" height="42"></a></code>
 </p>
 
 - HTML, CSS, JavaScript
@@ -62,7 +62,7 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 
 ### Tools & Practices
 <p align="center">
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="[https://icons8.com/icon/iEBcQcM9rnZ9/github](https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000)" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-actions.png" height="42"></a></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" /></code>
 </p>
 
