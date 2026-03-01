@@ -9,12 +9,18 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 
 ---
 
-## About Me
-- 🎓 B.Tech in Computer Science Engineering (2025–2029)
-- 🧠 Backend-first, systems-oriented mindset
-- 🔍 Focus on clean architecture, correctness, and code quality
-- 🎯 Target Roles: Backend Engineer Intern / Junior Backend Engineer
+<table>
+  <tr>
+    <td>
+### 👋 About Me
 
+- 🎓 **B.Tech in Computer Science Engineering (2025–2029)**
+- 🧠 Backend-first, systems-oriented mindset  
+- 🧩 Focus on clean architecture, correctness, and code quality  
+- 🎯 Target Roles: Backend Engineer Intern / Junior Backend Engineer  
+    </td>
+  </tr>
+</table>
 ---
 ## Tech Stack
 
@@ -62,7 +68,7 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 
 ### Tools & Practices
 <p align="center">
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-actions.png" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-action.png" height="42"></a></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" /></code>
 </p>
 
