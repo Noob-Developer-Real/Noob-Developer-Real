@@ -1,7 +1,8 @@
 <p align="center">
   <img src="./assets/typing.gif" width="900" />
 </p>
-### Hi, I’m Noob-Dev 👋  
+
+### Hi, I’m Noob-Dev 👋 
 
 Backend-focused Computer Science Engineering student interested in building reliable, maintainable backend systems and understanding how production-grade software is designed and evolved.
 
