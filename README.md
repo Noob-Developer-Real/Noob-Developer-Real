@@ -13,18 +13,51 @@ This account is used to learn by building, with an emphasis on clarity, correctn
   <tr>
     <td>
 
-### 👋 About Me
-Backend-focused Computer Science Engineering student with a strong interest in
+gu## 👋 About Me
+
+Backend-focused Computer Science Engineering student with a strong interest in  
 building reliable, maintainable systems and understanding production-grade software.
 
-    </td>
+```
+  {
+    "education": {
+      "degree": "B.Tech",
+      "field": "Computer Science and Engineering",
+      "duration": {
+        "start_year": 2025,
+        "end_year": 2029
+      }
+    },
+    "interests": {
+      "primary": [
+        "Backend development",
+        "System design",
+        "APIs and scalable services"
+      ],
+      "secondary": [
+        "Technology and gadgets",
+        "Research and development"
+      ]
+    },
+    "mindset": {
+      "approach": "Research-driven and development-focused",
+      "values": [
+        "Clarity",
+        "Correctness",
+        "Long-term maintainability",
+        "Continuous learning"
+      ]
+    },
+    "hobbies": [
+      "Exploring tech gadgets",
+      "Playing video games",
+      "Experimenting with software tools"
+    ]
+  }
+```
+  </td>
   </tr>
 </table>
-
-<br/>
-
----
-## Tech Stack
 
 ### Backend & APIs
 <p align="center">
