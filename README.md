@@ -1,7 +1,7 @@
 <p align="center">
   <img src="./assets/typing.gif" width="800" height="300" />
 </p>
-![](https://komarev.com/ghpvc/?username=Noob-Developer-Real&abbreviated=true&label=PROFILE+VIEWS&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=for-the-badge)
 ### Hi, I’m Noob-Dev 👋 
 
 Backend-focused Computer Science Engineering student interested in building reliable, maintainable backend systems and understanding how production-grade software is designed and evolved.
