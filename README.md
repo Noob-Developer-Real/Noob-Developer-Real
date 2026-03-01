@@ -148,7 +148,7 @@ I prefer fewer, well-structured projects that emphasize fundamentals over quanti
       <b>Scattered Clouds</b>
       <img width="15" src="http://openweathermap.org/img/w/03d.png">
     </td>
-    <td><b>96°C 🔥</b><br/><sub>Low heat, high focus</sub></td>
+    <td><b>96°C 🔥</b><br/><sub>High heat, low focus</sub></td>
     <td><b>06:09 AM</b><br/><sub>Server online</sub></td>
     <td><b>06:09 PM</b><br/><sub>Graceful shutdown</sub></td>
     <td><b>98%</b><br/><sub>RAM crying</sub></td>
