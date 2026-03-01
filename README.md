@@ -3,12 +3,7 @@
 </p>
 
 <p align="center">
-  
-  ![](https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW)
-  
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW" />
+  <img src="https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW&color=00ff9c" />
 </p>
 
 
