@@ -2,7 +2,12 @@
   <img src="./assets/typing.gif" width="800" height="300" />
 </p>
 
-![](https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=flat-square)
+<p align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW)
+  
+</p>
+
 
 ### Hi, I’m Noob-Dev 👋 
 
@@ -17,7 +22,7 @@ Backend-focused Computer Science Engineering student interested in building reli
 
 Computer Science Engineering student who enjoys breaking complex problems into clean, dependable backend systems.
 
-```
+```json
   {
     "education": {
       "degree": "B.Tech",
@@ -90,6 +95,7 @@ Computer Science Engineering student who enjoys breaking complex problems into c
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
+  <code><a href="https://getbootstrap.com"><img alt="Bootstrap" title="BootStrap" src="./assets/Bootstrap_logo.png" height="42"></a></code>
   <code><a href="https://htmx.org/"><img alt="HTMX" title="HTMX" src="./assets/Htmx.png" height="42"></a></code>
   <code><a href="https://alpinejs.dev/"><img alt="Alpine.js" title="Alpine.js" src="./assets/alpine_Js.svg" height="42"></a></code>
 </p>
@@ -102,8 +108,9 @@ Computer Science Engineering student who enjoys breaking complex problems into c
 
 ### Tools & Practices
 <p align="center">
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-action.png" height="42"></a></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" /></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-action.jpeg" height="42"></a></code>
+  <code><a href="[https://github.com/features/actions](https://code.visualstudio.com/)"><img alt="Visual Studio Code" title="Visual Studio Code" src="./assets/vscode.png" height="42"></a></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" /></code>
 </p>
 
 - Git & GitHub (branching, pull requests, reviews)
@@ -151,7 +158,7 @@ I prefer fewer, well-structured projects that emphasize fundamentals over quanti
 </table>
 
 <p align="center">
-  ☕ Perfect weather for debugging without overheating the brain
+  ☕ suitable environment for debugging.
 </p>
 
 ---
