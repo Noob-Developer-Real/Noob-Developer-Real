@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./assets/typing.gif" width="500" />
+  <img src="./assets/typing.gif" width="900" />
 </p>
-# Hi, I’m Noob-Dev 👋  
+### Hi, I’m Noob-Dev 👋  
 
 Backend-focused Computer Science Engineering student interested in building reliable, maintainable backend systems and understanding how production-grade software is designed and evolved.
 
@@ -9,10 +9,10 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 
 ---
 
+### 👋 About Me
 <table>
   <tr>
     <td>
-## 👋 About Me
 
 Backend-focused Computer Science Engineering student with a strong interest in  building reliable, maintainable systems and understanding production-grade software.
 
