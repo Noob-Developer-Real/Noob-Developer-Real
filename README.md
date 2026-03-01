@@ -12,15 +12,17 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 <table>
   <tr>
     <td>
-### 👋 About Me
 
-- 🎓 **B.Tech in Computer Science Engineering (2025–2029)**
-- 🧠 Backend-first, systems-oriented mindset  
-- 🧩 Focus on clean architecture, correctness, and code quality  
-- 🎯 Target Roles: Backend Engineer Intern / Junior Backend Engineer  
+### 👋 About Me
+Backend-focused Computer Science Engineering student with a strong interest in
+building reliable, maintainable systems and understanding production-grade software.
+
     </td>
   </tr>
 </table>
+
+<br/>
+
 ---
 ## Tech Stack
 
