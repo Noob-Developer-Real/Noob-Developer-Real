@@ -17,9 +17,7 @@ Backend-focused Computer Science Engineering student interested in building reli
 <table>
   <tr>
     <td>
-
-Computer Science Engineering student who enjoys breaking complex problems into clean, dependable backend systems.
-
+First-year CSE student building backend systems independently, with a focus on production-ready APIs and clean architecture.
 ```json
   {
     "education": {
@@ -103,7 +101,15 @@ Computer Science Engineering student who enjoys breaking complex problems into c
 - Alpine.js for minimal client-side logic
 
 ---
-
+### 🧠 How I Work
+<table>
+  <tr>
+    <td>
+I build software with a focus on clarity, incremental development, and long-term maintainability. I prefer learning by building real systems, emphasizing clean API design, structured data models, and readable code. I treat documentation and refactoring as core engineering practices, even when working independently.
+    </td>
+  </tr>
+</table>
+---
 ### Tools & Practices
 <p align="center">
   <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-actions.png" height="42"></a></code>
