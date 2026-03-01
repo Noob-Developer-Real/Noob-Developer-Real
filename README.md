@@ -22,8 +22,8 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 <p align="center">
   <code><a href="https://www.python.org/"><img alt="python" title="python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  <code><a href="https://www.django-rest-framework.org/"><img alt="DRF" title="DRF" src="./assets/DRF.png" height="42"></a></code>
-  <code><a href="https://www.jwt.io/"><img alt="JWT" title="JWT" src="./assets/JWT.png" height="42"></a></code>
+  <code><a href="https://www.django-rest-framework.org/"><img alt="DRF" title="DRF" src="./assets/Drf.png" height="42"></a></code>
+  <code><a href="https://www.jwt.io/"><img alt="JWT" title="JWT" src="./assets/JWT.jpeg" height="42"></a></code>
 </p>
 
 - Python, Django, Django REST Framework
@@ -34,7 +34,7 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 ---
 
 ### Databases
-<p align="left">
+<p align="center">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" /></code>
 </p>
@@ -51,7 +51,7 @@ This account is used to learn by building, with an emphasis on clarity, correctn
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
   <code><a href="https://htmx.org/"><img alt="HTMX" title="HTMX" src="./assets/Htmx.png" height="42"></a></code>
-  <code><a href="https://alpinejs.dev/"><img alt="Alpine.js" title="Alpine.js" src="./assets/Alpine_js.png" height="42"></a></code>
+  <code><a href="https://alpinejs.dev/"><img alt="Alpine.js" title="Alpine.js" src="./assets/Alpine_js.svg" height="42"></a></code>
 </p>
 
 - HTML, CSS, JavaScript
@@ -62,7 +62,7 @@ This account is used to learn by building, with an emphasis on clarity, correctn
 
 ### Tools & Practices
 <p align="center">
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/actions.png" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="https://icons8.com/icon/iEBcQcM9rnZ9/github" height="42"></a></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="38" /></code>
 </p>
 
@@ -113,7 +113,6 @@ I prefer fewer, well-structured projects that emphasize fundamentals over quanti
   ☕ Perfect weather for debugging without overheating the brain
 </p>
 
-<br><br><br>
 ---
 
 ## What I Care About
