@@ -7,6 +7,9 @@
   ![](https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW)
   
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW" />
+</p>
 
 
 ### Hi, I’m Noob-Dev 👋 
@@ -108,7 +111,7 @@ Computer Science Engineering student who enjoys breaking complex problems into c
 
 ### Tools & Practices
 <p align="center">
-  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-action.jpeg" height="42"></a></code>
+  <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-actions.png" height="42"></a></code>
   <code><a href="[https://github.com/features/actions](https://code.visualstudio.com/)"><img alt="Visual Studio Code" title="Visual Studio Code" src="./assets/vscode.png" height="42"></a></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" /></code>
 </p>
