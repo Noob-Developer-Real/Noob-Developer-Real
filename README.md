@@ -89,6 +89,14 @@ First-year CSE student building backend systems independently, with a focus on p
 </p>
 </p>
 
+
+<p align="center">
+  <strong>Databases</strong><br><br>
+  PostgreSQL, SQLite · ORM-based schema modeling · Indexing & query optimization<br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36"/>
+</p>
+
 ---
 
 ### Frontend (Working Knowledge)
