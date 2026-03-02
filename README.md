@@ -12,6 +12,7 @@
 Backend-focused Computer Science Engineering student interested in building reliable,
 maintainable backend systems and understanding how production-grade software is designed and evolved.
 
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31xjrhzkhzhfgexxfd6dn6p7rpkm)
 ---
 
 ### 👋 About Me
@@ -62,7 +63,7 @@ First-year CSE student building backend systems independently, with a focus on p
 </table>
 
 ### Backend & APIs
-<p align="left">
+<p align="center">
   <code><a href="https://www.python.org/"><img alt="python" title="python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
   <code><a href="https://www.django-rest-framework.org/"><img alt="DRF" title="DRF" src="./assets/Drf.png" height="42"></a></code>
@@ -77,31 +78,19 @@ First-year CSE student building backend systems independently, with a focus on p
 ---
 
 ### Databases
-<p align="center">
-  <p align="left">
-- PostgreSQL, SQLite
-- ORM-based schema modeling
+<p align="center"> 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42"/></code> 
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" /></code> 
+</p>
+
+- PostgreSQL, SQLite 
+- ORM-based schema modeling 
 - Indexing and query optimization fundamentals
-</p>
-<p align="right">
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" /></code>
-</p>
-</p>
-
-
-<p align="center">
-  <strong>Databases</strong><br><br>
-  PostgreSQL, SQLite · ORM-based schema modeling · Indexing & query optimization<br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="36"/>
-</p>
-
 ---
 
 ### Frontend (Working Knowledge)
 
-<p align="right">
+<p align="center">
   <code><a href="https://en.wikipedia.org/wiki/HTML"><img alt="HTML 5" title="HTML 5" src="./assets/html.png" height="42"></a></code>
   <code><a href="https://www.w3.org/Style/CSS/Overview.en.html"><img alt="CSS 3" title="CSS 3" src="./assets/css.png" height="42"></a></code>
   <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img alt="JavaScript" title="JavaScript" src="./assets/js.png" height="42"></a></code>
@@ -128,7 +117,7 @@ I build software with a focus on clarity, incremental development, and long-term
 ---
 
 ### Tools & Practices
-<p align="right">
+<p align="center">
   <code><a href="https://github.com/features/actions"><img alt="GitHub Actions" title="GitHub Actions" src="./assets/github-actions.png" height="42"></a></code>
   <code><a href="[https://github.com/features/actions](https://code.visualstudio.com/)"><img alt="Visual Studio Code" title="Visual Studio Code" src="./assets/vscode.png" height="42"></a></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" /></code>
@@ -184,11 +173,4 @@ I prefer fewer, well-structured projects that emphasize fundamentals over quanti
 
 ---
 
-## What I Care About
-- Software that remains readable and adaptable over time
-- Understanding design trade-offs, not just implementations
-- Writing code that scales with teams, not just features
-
----
-
-> This is my secondary GitHub account, used to understand how things work by building, breaking, and refining backend systems.
+> This is my secondary GitHub account, used to understand how things work by building, breaking, and refining backend systems. 
