@@ -77,7 +77,8 @@ First-year CSE student building backend systems independently, with a focus on p
 ---
 
 ### Databases
-<p align="left">
+<p align="center">
+  <p align="left">
 - PostgreSQL, SQLite
 - ORM-based schema modeling
 - Indexing and query optimization fundamentals
@@ -85,6 +86,7 @@ First-year CSE student building backend systems independently, with a focus on p
 <p align="right">
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" height="42" /></code>
+</p>
 </p>
 
 ---
