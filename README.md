@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW&color=#4A90A4" />
+  <img src="https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW&color=4A90A4" />
 </p>
 
 ### Hi, I’m Noob-Dev 👋 
