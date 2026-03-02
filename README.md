@@ -8,11 +8,16 @@
 
 
 ### Hi, I’m Noob-Dev 👋 
-<p align="center">
-  <p align="left">Backend-focused Computer Science Engineering student interested in building reliable, maintainable backend systems and understanding how production-grade software is designed and evolved.</p>
-  <iframe src="https://open.spotify.com/embed/track/1UgMLFmeVyphjePcN1TNpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" align="right"></iframe>
-</p>
 
+<p align="left">
+  Backend-focused Computer Science Engineering student interested in building reliable,
+  maintainable backend systems and understanding how production-grade software is designed and evolved.
+</p>
+<p align="center">
+  <a href="https://open.spotify.com/collection/tracks">
+    <img src="https://spotify-github-readme.vercel.app/api/spotify" alt="Spotify Now Playing" />
+  </a>
+</p>
 
 ---
 
