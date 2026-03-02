@@ -62,7 +62,7 @@ First-year CSE student building backend systems independently, with a focus on p
 </table>
 
 ### Backend & APIs
-<p align="right">
+<p align="left">
   <code><a href="https://www.python.org/"><img alt="python" title="python" src="./assets/python.png" height="42"></a></code>
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
   <code><a href="https://www.django-rest-framework.org/"><img alt="DRF" title="DRF" src="./assets/Drf.png" height="42"></a></code>
