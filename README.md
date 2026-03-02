@@ -6,13 +6,11 @@
   <img src="https://komarev.com/ghpvc/?username=Noob-Developer-Real&style=plastic&label=STALKER+TILL+NOW&color=00ff9c" />
 </p>
 
-
 ### Hi, I’m Noob-Dev 👋 
 
 Backend-focused Computer Science Engineering student interested in building reliable,
 maintainable backend systems and understanding how production-grade software is designed and evolved.
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31xjrhzkhzhfgexxfd6dn6p7rpkm)
 ---
 
 ### 👋 About Me
