@@ -10,7 +10,7 @@
 ### Hi, I’m Noob-Dev 👋 
 <p align="center">
   <p align="left">Backend-focused Computer Science Engineering student interested in building reliable, maintainable backend systems and understanding how production-grade software is designed and evolved.</p>
-  <code><iframe src="https://open.spotify.com/embed/track/1UgMLFmeVyphjePcN1TNpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" align="right"></iframe></code>
+  <iframe src="https://open.spotify.com/embed/track/1UgMLFmeVyphjePcN1TNpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media" align="right"></iframe>
 </p>
 
 
